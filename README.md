@@ -7,8 +7,9 @@ The purpose of this analysis is to determine which of two coding scripts in VBA 
 Using stock data for the years 2017 and 2018, I analyzed 12 stocks and calculated daily volume (the total number of shares that were traded throughout a day) and the return (the difference of the ending stock price and the beginning stock price). The output of the analysis is a table in Excel displaying each stock ticker, the sum of its total daily volume, and return. Using the timer function, I compared the execution time of the first coding script against the second script. The first script that I ran completed the analysis in 0.8320313 seconds for 2017 and 0.8515625 seconds for 2018.
 
 After refactoring the code and running the scripts again, I saw improvement in the execution time, as shown in the following screenshots:
-![2017 Code Execution Time](https://github.com/nikkiheaston/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
+
+![2017 Code Execution Time](https://github.com/nikkiheaston/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
 
 ![2018 Code Execution Time](https://github.com/nikkiheaston/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
