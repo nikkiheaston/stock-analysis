@@ -9,6 +9,8 @@ Using stock data for the years 2017 and 2018, I analyzed 12 stocks and calculate
 After refactoring the code and running the scripts again, I saw improvement in the execution time, as shown in the following screenshots:
 ![2017 Code Execution Time](https://github.com/nikkiheaston/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
+
+
 ![2018 Code Execution Time](https://github.com/nikkiheaston/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 As we see, the code ran more than half a second faster for each year. 
