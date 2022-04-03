@@ -31,7 +31,7 @@ For i = 0 to 11
 Next i
 ```
 
-In refactoring the code, I created output arrays for the trade volumes, starting prices, and ending prices, and created a ticker index to access the correct index in each array. I created a For loop to initialize the trade volumes to 0. Then I created a second For loop to loop through all the rows, calculating the trade volumes, using If statements for finding the ticker starting prices and ending prices, and then advancing the ticker onto the next before looping again.  
+In refactoring the code, I created output arrays for the trade volumes, starting prices, and ending prices, and created a ticker index variable to access the correct index in each array. I created a For loop to initialize the trade volumes to 0. Then I created a second For loop to loop through all the rows, calculating the trade volumes, using If statements for finding the ticker starting prices and ending prices, and then advancing the ticker onto the next before looping again.  
 
 Example snippets of the code (see Excel file for complete code):
 
